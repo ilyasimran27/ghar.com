@@ -1,0 +1,106 @@
+.container{
+    width:1170px;
+    margin:0 auto;
+    
+}
+header{
+    
+}
+.logo{
+    widows: 50%;
+    float:left;
+    background-color: black;
+    
+}
+.logo img{
+    width:27%;
+    float:left;
+}
+.nav{
+    width:50%;
+    float:left;
+    background-color: black;
+    
+
+}
+ul{
+    list-style: none;
+    float:right;
+    
+}
+ul li{
+display:inline-block;
+margin:20px;
+}
+li a{
+    text-decoration: none;
+    color:gold;
+}
+.main-contained{
+    width:100%;
+    float:left;
+    
+
+}
+label{
+    width:20%;
+    float:left;
+    margin-top:20px;
+    margin-left:200px;
+    font-family: cursive;
+   
+}
+.inpt{
+    width:30%;
+    float:left;
+    
+    margin-left:30px;
+}
+.main-contained .inpt input{
+    width:100%;
+    float:left;
+    margin-top:20px;
+    
+    color:black;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    padding-bottom:20px;
+    text-align: center;
+    padding-top:20px;
+    border-color:black;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+outline:none;
+
+
+
+
+
+}
+.houses{
+    width:100%;
+    float:left;
+    margin-top:20px;
+}
+.items{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+.items img{
+    width:50%;
+
+}
+.items p{
+    width:50%;
+
+}
+.items h1{
+    color: gold;
+    font-family: fantasy;
+    font-weight: 100;
+    text-underline-position: below;
+    text-decoration: black underline;
+    
+}
